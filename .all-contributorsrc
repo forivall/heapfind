@@ -1,0 +1,25 @@
+{
+  "projectName": "heapfind",
+  "projectOwner": "forivall",
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "forivall",
+      "name": "Emily Marigold Klassen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/760204?v=4",
+      "profile": "http://forivall.com/",
+      "contributions": [
+        "code",
+        "doc",
+        "test",
+        "infra"
+      ]
+    }
+  ],
+  "repoType": "github",
+  "commitConvention": "none"
+}

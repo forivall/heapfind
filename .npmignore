@@ -1,0 +1,25 @@
+# OS Specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.~lock.*
+
+# Node Specific
+/node_modules
+/coverage
+/.nyc_output
+*.log
+*.cache
+.changelog
+.eslintcache
+
+# Typescript
+tsconfig.tsbuildinfo
+
+# Build meta files - only in .npmignore
+/lib/tsconfig.tsbuildinfo
+/lib/**/__tests__/**

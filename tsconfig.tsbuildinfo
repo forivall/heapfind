@@ -1,0 +1,22 @@
+{
+  "program": {
+    "fileInfos": {},
+    "options": {
+      "target": 2,
+      "module": 1,
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "importHelpers": true,
+      "composite": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": []
+  },
+  "version": "3.6.4"
+}
