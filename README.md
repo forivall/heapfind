@@ -16,7 +16,7 @@ npm install --save heapfind
 
 ## Usage
 
-```
+```ts
 import heapfind from 'heapfind';
 
 const firstFoo = heapfind(
